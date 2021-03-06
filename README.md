@@ -1,3 +1,6 @@
 # Java-GUI-Music-Player
 
-This Java GUI app is able to play and pause a wav. music file.
+A Java GUI app where I implemented the pause and play functionalities for a music player.
+
+Implementation Details:
+
