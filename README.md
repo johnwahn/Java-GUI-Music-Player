@@ -1,6 +1,7 @@
 # Java-GUI-Music-Player
 
 A Java GUI app where I implemented the pause and play functionalities for a music player.
+Note that not all of the media files are uploaded due to large size, but all the implementation code is present.
 
 Implementation Summary:
 - Created an AudioManager class which extends the Thread class in order to make use of the run() function, which continously runs the app.
